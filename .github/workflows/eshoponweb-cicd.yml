@@ -1,7 +1,6 @@
 name: eShopOnWeb Build and Test
 
-on:
-  workflow_dispatch:
+on: workflow_dispatch
 
 env:
   RESOURCE-GROUP: rg-eshoponweb-eastus
