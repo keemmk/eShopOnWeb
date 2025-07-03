@@ -6,7 +6,7 @@ on: workflow_dispatch
 # Environment variables
 env:
   RESOURCE-GROUP: rg-eshoponweb-eastus
-  LOCATION: USEAST
+  LOCATION: East US
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 6ccf4cbb-7ce5-4969-af53-b1a59864cbc4
   WEBAPP-NAME: devops-webapp-eastus-74843436
